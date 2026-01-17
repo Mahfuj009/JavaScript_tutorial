@@ -1,7 +1,7 @@
 // static = owned by class only not by object
 
 class MathUtil{
-    static PI = 3.14159
+    static PI = 3.14159         //also owned by the child class
     static getDiameter(radius){
         return radius * 2
     }

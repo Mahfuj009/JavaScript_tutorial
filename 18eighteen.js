@@ -27,3 +27,4 @@ console.log(people)
 
 people.sort((a,b) => b.name.localeCompare(a.name));
 console.log(people)
+
