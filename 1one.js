@@ -1,4 +1,5 @@
-// call back function example
+// call back function example:
+
 hello(leave)
 function hello(callback){
     setTimeout(function(){
@@ -12,8 +13,6 @@ function bye(){
 function leave(){
     console.log("leaveing now")
 }
-
-
 sum(showResult,4,5)
 function sum(callback,a,b){
     let result = a + b

@@ -2,7 +2,6 @@
 
 class Animal{
     alive = true
-
     eat(){
         console.log(`This ${this.name} is eating`)
     }
@@ -10,7 +9,6 @@ class Animal{
         console.log(`This ${this.name} is sleeping`)
     }
 }
-
 class Rabbit extends Animal{
     name = "rabbit"
 

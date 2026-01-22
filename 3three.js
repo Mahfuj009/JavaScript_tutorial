@@ -1,14 +1,11 @@
 // .map() method 
-
 const numbers = [1, 2, 3, 4, 5]
-
 const squares = numbers.map(square)
 console.log(squares)
 
 function square(element){
     return element * element
 }
-
 
 const students = ["Spongebob", "Patrick", "Sandy", "Mr. Krabs"]
 const studentsUpper = students.map(uppercase)

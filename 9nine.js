@@ -23,8 +23,6 @@ person2.eat()
 
 
 //constructor 
-
-
 function Car(make,model,year,color){
     this.make = make,
     this.model = model,

@@ -1,5 +1,6 @@
 // getter = readable
-//setter = writeable
+//setter = writeable      //together combined is validator
+
 
 class Rectangle{
     constructor(width,height){
