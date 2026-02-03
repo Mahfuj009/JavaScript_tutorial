@@ -33,7 +33,7 @@ counter.increment()
 counter.increment()
 
 
-console.log(counter.count)// undefined cause the variable is private
+console.log(counter.count)  //undefined cause the variable is private
 
 console.log(`The current count is ${counter.getCount()}`)
 
