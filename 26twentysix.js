@@ -1,5 +1,4 @@
 // Error = an object is created to represent a problem 
-
 //try{} = encloses code that might potentially cause an error
 //catch{} = catch and handle any thrown errors from try {}
 //finally{} = (optional) always executes.used mostly for clean up 
@@ -36,7 +35,7 @@ try{
     }
 
     if (isNaN(dividend) || isNaN(divisor)){
-        throw new Error("Invalid input: please enter numeric values");
+        throw new Error("valid input: please enter numeric values");
     }
     const result = dividend/divisor;
 
@@ -52,3 +51,4 @@ catch(error){
 
 
 console.log("You have reched the end of the code");
+
