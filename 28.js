@@ -64,9 +64,3 @@ console.log(chars); //a node list have forEach method
 chars.forEach(charr =>{
     charr.style.background ="cyan";
 })
-
-
-
-
-
-
