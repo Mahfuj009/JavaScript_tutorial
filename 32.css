@@ -1,0 +1,10 @@
+#myBox{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background-color:aquamarine ;
+    align-items: center;
+    font-size: 70px;
+    margin: 0;
+    position: relative;
+}

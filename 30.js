@@ -55,5 +55,3 @@ document.getElementById("fruits").insertBefore(newListItem,listItems[2])
 //deleting the newListItem
 document.getElementById("fruits").removeChild(newListItem)
 
-
-
