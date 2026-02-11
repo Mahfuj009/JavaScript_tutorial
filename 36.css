@@ -1,0 +1,37 @@
+.btn{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    height: 50px ;
+    width: 100px;
+    font-size: 15px;
+    border: none;
+    font-weight:bold ;
+    padding: 10% 10%;
+    border-radius: 10px;
+    color:white;
+    
+}
+
+.enable{
+    background-color: rgba(3, 153, 240, 0.534);
+    
+}
+
+.hover{
+    height: 60px;
+    width: 120px;
+    background-color: rgb(16, 114, 170);
+}
+
+.disable{
+    background-color: rgb(146, 146, 151);
+}
+
+
+
+
+
+
+
+
